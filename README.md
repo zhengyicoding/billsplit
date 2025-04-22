@@ -203,6 +203,8 @@ Delete a specific expense item:
 
 [Video Demo](https://youtu.be/aM9q7ZpVgPE)
 
+[Usability Study Report](https://drive.google.com/file/d/1PxUNzJ8mzTnXCt0HWX342NYnRTVub-Fg/view?usp=sharing)
+
 ## Future Improvements
 
 - User authentication and authorization
